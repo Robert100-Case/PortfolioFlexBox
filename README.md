@@ -8,6 +8,6 @@ anyone with basic computer knowledge will be able to use this program
 MIT
 
 ## Screenshots
-<img src="portfolioflex1.png">
 <img src="portfolioflex2.png">
+<img src="portfolioflex1.png">
           
